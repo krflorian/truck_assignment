@@ -22,7 +22,9 @@ The algorithm assigns trucks to loads depending on their haversine distance to t
 We want to minimize the distance between the truck/load pairs
 
 - Truck and Load Positions  
+
 ![Truck and Load Positions](data/images/positions.png "Truck and Load Positions")
 
-- Assignments
+- Assignments  
+
 ![Assignments](data/images/assignments.png "Assignments")
